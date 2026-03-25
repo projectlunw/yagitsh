@@ -1,11 +1,11 @@
 # Licensed under the Project LunW License (PLL)
 #!/bin/zsh
-source $(dirname "$(readlink -f "$0")")/yagitsh
+source $(dirname "$(readlink -f "$0")")/yagitsh # start yagitsh
 
-mode="$1"
-src="$2"
-repo="$3"
-path="$4"
+mode="$1" # arg, -c : clone
+src="$2" # site, github
+repo="$3" # repo, projectlunw/yagitsh
+path="$4" # path, home/user/
 
 echo "args: $1, $2"
 
@@ -16,5 +16,5 @@ echo "repo: $3"
 echo "path: $path"
 
 if [ "$1" = "-c" ]; then
-    git clone "https://$2.com/$3 $4"
+    git clone "https://$2.com/$3" "$4"
 fi
