@@ -1,4 +1,6 @@
+# Licensed under the Project LunW License (PLL)
 #!/bin/zsh
+
 source $(dirname "$(readlink -f "$0")")/yagitsh
 
 mode="$1"
