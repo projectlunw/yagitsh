@@ -1,0 +1,20 @@
+#!/bin/zsh
+source $(dirname "$(readlink -f "$0")")/yagitsh
+
+mode="$1"
+src="$2"
+repo="$3"
+path="$4"
+
+echo "args: $1, $2"
+if [ "$1" = "-c" ]; then
+    echo "mode: $mode"
+fi
+if [ "$2" = "-gh" ]; then
+    echo "source: $src"
+fi
+if [ "$4" = "" ]; then
+    path="~/"
+fi
+echo "repo: $3"
+echo "path: $path"

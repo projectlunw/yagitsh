@@ -1,0 +1,19 @@
+#!/bin/zsh
+
+echo "yagit"
+
+scrdir=$(dirname "$(readlink -f "$0")")
+
+echo "wait for /.conf"
+
+if [ -f "$scrdir/.conf" ]; then
+    echo "$scrdir/.conf"
+else
+    echo "file '$scrdir/.conf' is not existing"
+    exit 1
+fi
+
+source $scrdir/.conf
+
+echo "_version=$_VER"
+echo "version=$VER"
