@@ -1,3 +1,6 @@
+# Licensed under the Project LunW License (PLL)
+# script for git push
+
 git add .
 git commit -m "$1"
 git push
