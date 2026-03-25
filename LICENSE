@@ -1,21 +1,20 @@
-The MIT License (MIT)
+Licensed under the Project LunW License (PLL)
 
-Copyright (c) 2026 PROJECTLUNW
+Project LunW License
+Copyright(c) 2026 PROJECTLUNW
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+PLL - Project LunW License
+ПО - данная программа/код которая под этой лицензией PLL
+ФОРК - программа/код на основе ПО
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+Само ПО должно быть полностью бесплатным, то есть его стоимость должна быть равна нулю, а так же ПО не должно содержать любого вида транзакций.
+У ПО должен быть открыт исходный код, то есть ПО должно быть Open Source
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+Для использования, распространения ПО под данной лицензией вы должны соблюдать условия:
+
+1) Если вы создаете ФОРК этого ПО вы должны упоминуть название ПО и Автора, сам ФОРК должен быть бесплатным как и само ПО и не иметь любого вида транзакций.
+2) При распространении ПО вы должны упоминуть название ПО, Автора и (необязательно)Лицензию PLL. распространение должно быть бесплатным и без изменений.
+3) Вы не имеете право присваивать себе ПО если вы не являетесь настоящим Автором ПО.
+4) Сам код ПО может просматривать, изучать и копировать каждый, но при этом если вы создаете что то на базе ПО вы должны соблюдать первое правило.
+
+ПО предоставляется на условиях 'как есть'. Автор не несет ответственности за любые прямые или косвенные убытки, возникшие в результате использования данного ПО.
