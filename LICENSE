@@ -13,7 +13,9 @@ The SOFTWARE must be open source.
 To use and distribute the SOFTWARE under this license, you must comply with the terms:
 
 1. If you are creating a FORK of this SOFTWARE, your FORK must have a different name from the SOFTWARE; otherwise, it will be considered distribution and editing of the SOFTWARE, and any adjustments to the source code of the FORK must be present because it violates rule 3, it will violate rule 2, you must mention the name of the original SOFTWARE and the Author. The FORK itself must be free like the SOFTWARE itself and not have any kind of commercial transactions.
+
 2. When distributing the SOFTWARE, you must mention the name of the SOFTWARE, the Author, and (optional) The PLL license. The distribution should be free and unchanged; if you change ONLY the name, it will violate rule 3.
+
 3. You do not have the right to appropriate the SOFTWARE if you are not the real Author of the SOFTWARE, and you also cannot just change the name and issue the SOFTWARE as a separate program.
 
 4. The SOFTWARE code itself can be viewed, studied and copied by anyone, but at the same time, if you create something based on the SOFTWARE, you must follow the first rule.
@@ -34,7 +36,11 @@ PLL - Project LunW Лицензия.
 
 Для использования и распространения ПО под этой лицензией вы должны соблюдать следующие условия:
 1. Если вы создаете ФОРК этого ПО, у вашего ФОРКа должно быть другое название в отличие от ПО иначе это будет распространение и редактирование ПО, а так же любые коректировки в исходном коде ФОРКа обязанны быть ибо это нарушает пункт 3, он будет нарушать пункт 2, вы должны указать название оригинального ПО и Автора. Сам ФОРК должен быть таким же бесплатным, как и само ПО, и не содержать никаких видов коммерческих транзакций.
+
 2. При распространении ПО вы должны указывать название ПО, Автора и (по желанию) лицензию PLL. Распространение должно быть бесплатным и без внесения изменений, если вы измените ТОЛЬКО название, то это будет нарушать пункт 3.
+
 3. Вы не имеете права присваивать ПО себе, если не являетесь его настоящим Автором, а так же вы не можете просто поменять название и выдать ПО как отдельную программу.
+
 4. Код ПО может просматривать, изучать и копировать любой желающий, но при этом, если вы создаете что-либо на основе ПО, вы обязаны следовать первому правилу.
+
 ПО предоставляется на условиях «как есть» (as is). Автор не несет ответственности за любые прямые или косвенные убытки, возникшие в результате использования данного ПО.
